@@ -1,7 +1,6 @@
 <b>@mlemingcapoo</b>
 - 18yo
-- Arch user (and learning about it!)
-- Yeah i'm Vietnamese
+- i'm Vietnamese
 - nothing's here <i>yet</i>
 
 <!---
