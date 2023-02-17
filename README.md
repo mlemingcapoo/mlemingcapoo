@@ -1,7 +1,8 @@
 <b>@mlemingcapoo</b>
 - born in 2004
 - Vietnamese
-- Studying C/C++
+- Studying
+- Still a Noob
 - FPT Poly Hai Phong
 
 
