@@ -9,7 +9,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlemingcapoo&langs_count=5&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlemingcapoo&langs_count=6&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) 
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlemingcapoo&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 <!---
