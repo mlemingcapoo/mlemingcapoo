@@ -1,7 +1,7 @@
 <b>@mlemingcapoo</b>
-- born in 2004
+- dream: make a dream game
 - Vietnamese
-- Studying
+- Studying java, but wants to learn python
 - Still a Noob
 - FPT Poly Hai Phong
 
