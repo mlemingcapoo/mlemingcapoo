@@ -1,9 +1,8 @@
 <b>@mlemingcapoo</b>
-- dream: make a dream game
+- make my dream game
 - Vietnamese
-- Studying java, but wants to learn python
-- Still a Noob
-- FPT Poly Hai Phong
+- Learning java, laravel, Vue for web dev
+- FPT College
 
 
 
