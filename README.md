@@ -1,7 +1,7 @@
 <b>@mlemingcapoo</b>
 - make my dream game
 - Vietnamese
-- Learning java, laravel, Vue for web dev
+- Learning java, spring, laravel, Vue for web dev
 - FPT College
 
 
