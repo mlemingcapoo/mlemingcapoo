@@ -6,9 +6,8 @@
   <div>
     <ul>
       <li>make my dream game</li>
+      <li>make my dream AI assistant</li>
       <li>Vietnamese</li>
-      <li>Learning java, spring, laravel, Vue for web dev</li>
-      <li>FPT College</li>
     </ul>
   </div>
   <a href="https://app.daily.dev/mlemingcapoo"><img src="https://api.daily.dev/devcards/v2/at7xZusBnt4d1dT7B2Nvm.png?type=wide&r=hzs" width="652" alt="Trung's Dev Card"/></a><br>
