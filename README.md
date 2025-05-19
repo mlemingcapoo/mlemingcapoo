@@ -5,9 +5,10 @@
   <b>@mlemingcapoo</b><br>
   <div>
     <ul>
-      <li>make my own game</li>
-      <li>make my own AI agent</li>
-      <li>very insane</li>
+      <li>i do what i want</li>
+<!--       <li>make my own game</li> -->
+<!--       <li>make my own AI agent</li> -->
+<!--       <li>very insane</li> -->
       <li>Vietnamese</li>
     </ul>
   </div>
