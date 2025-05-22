@@ -3,13 +3,17 @@
 
 <div align="left">
   <b>@mlemingcapoo</b><br>
+  <br>
+  welcome ;)
+  <br>
+  feel free to look around!
   <div>
     <ul>
-      <li>i do what i want</li>
+<!--       <li>i do what i want</li> -->
 <!--       <li>make my own game</li> -->
 <!--       <li>make my own AI agent</li> -->
 <!--       <li>very insane</li> -->
-      <li>Vietnamese</li>
+<!--       <li>Vietnamese</li> -->
     </ul>
   </div>
 <!--   <a href="https://app.daily.dev/mlemingcapoo"><img src="https://api.daily.dev/devcards/v2/at7xZusBnt4d1dT7B2Nvm.png?type=wide&r=hzs" width="652" alt="Trung's Dev Card"/></a><br> -->
