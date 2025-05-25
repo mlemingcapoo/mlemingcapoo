@@ -7,6 +7,8 @@
   welcome ;)
   <br>
   feel free to look around!
+  <br>
+  I love doing random thing or it is just me having ADHD and can't stay still
   <div>
     <ul>
 <!--       <li>i do what i want</li> -->
