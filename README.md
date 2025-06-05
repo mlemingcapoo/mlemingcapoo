@@ -18,8 +18,8 @@
 <!--       <li>Vietnamese</li> -->
     </ul>
   </div>
-  <img src="https://capo-repo-mlemingcapoos-projects.vercel.app?user=mlemingcapoo&theme=dark&hide_border=false" alt="Capoo's Streak" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlemingcapoo&theme=dark&hide_border=false"/> <br> -->
+<!--   <img src="https://capo-repo-mlemingcapoos-projects.vercel.app?user=mlemingcapoo&theme=dark&hide_border=false" alt="Capoo's Streak" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlemingcapoo&theme=dark&hide_border=false"/> <br>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=mlemingcapoo&show_icons=true&theme=dark"/> <br> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlemingcapoo&langs_count=6&show_icons=true&theme=gotham"/> -->
 </div>
