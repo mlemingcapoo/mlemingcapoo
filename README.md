@@ -1,8 +1,9 @@
 
 
-
 <div align="left">
   <b>@mlemingcapoo</b><br>
+  <br>
+<img src="https://count.getloli.com/@mlemingcapoo?name=mlemingcapoo&theme=sketch-2&padding=7&offset=100&align=top&scale=1&pixelated=1&darkmode=auto"/>
   <br>
   welcome ;)
   <br>
